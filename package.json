@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": " ",
+    "start": "node ."
+  },
+  "author": "Andrew Barrett",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "node": "^16.6.2"
+  },
+  "keywords": [],
+  "description": ""
+}
